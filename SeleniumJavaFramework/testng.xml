@@ -1,0 +1,9 @@
+
+<suite parallel="classes" name="Suite">
+  <test thread-count="5" parallel="classes" name="Test">
+    <classes>
+      <class name="googlesearch.salesforce_SIT_POM_actions_TestNG"/>
+      <class name="googlesearch.salesforce_SIT_POM_actions_TestNG2"/>
+    </classes>
+  </test>
+</suite>
